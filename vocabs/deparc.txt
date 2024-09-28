@@ -1,0 +1,4 @@
+self
+align
+opposite
+norelation
