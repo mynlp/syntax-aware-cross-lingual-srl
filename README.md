@@ -1,7 +1,7 @@
-# Graph Neural Networks for Syntax Encoding in Cross-Lingual Semantic Role Labeling
+# Transferability of Syntax-Aware Graph Neural Networks in Zero-Shot Cross-Lingual Semantic Role Labeling
 
 ## About
-This is the implementation code for our paper: "Graph Neural Networks for Syntax Encoding in Cross-Lingual Semantic Role Labeling". Feel free to use this repository to reproduce our results for research purposes. We do not provide any data in this repository, therefore please prepare the data in advance. We refer to the other repositories when implementing the models for our experiments:
+This is the implementation code for our paper: "Transferability of Syntax-Aware Graph Neural Networks in Zero-Shot Cross-Lingual Semantic Role Labeling". Feel free to use this repository to reproduce our results for research purposes. We do not provide any data in this repository, therefore please prepare the data in advance. We refer to the other repositories when implementing the models for our experiments:
 1. [diegma/neural-dep-srl](https://github.com/diegma/neural-dep-srl) for Syntactic Graph Convolutional Networks (SGCNs)
 2. [dmlc/dgl](https://github.com/dmlc/dgl) for Relational Graph Convolutional Networks (RGCNs)
 3. [AnWang-AI/towe-eacl](https://github.com/AnWang-AI/towe-eacl) for Attention-Based Graph Convolutional Networks (ARGCNs)
